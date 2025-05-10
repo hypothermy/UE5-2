@@ -1,6 +1,6 @@
 const days = [
   { title: "Gün 1: gitBlueprint Class Mirası ve Polymorphism", tasks: ["Blueprint sınıf mirası hakkında ileri düzey bilgiler", "Polymorphism ve method override"] },
-  { title: "Veri Yapıları - Array, List ve Dictionary Kullanımı", tasks: ["Blueprint'te array, list ve dictionary kullanımı", "Verileri saklamak için uygun yapılar oluşturma"] },
+  { title: "Gün 2: Veri Yapıları - Array, List ve Dictionary Kullanımı", tasks: ["Blueprint'te array, list ve dictionary kullanımı", "Verileri saklamak için uygun yapılar oluşturma"] },
   { title: "İleri Düzey AI - Görsel Algılama ve Tepkiler", tasks: ["AI'nin görsel algılama kullanarak hareket etmesi", "Patikalar ve bölge tespiti"] },
   { title: "AI ve Behavior Tree Kullanımı", tasks: ["Behavior Tree nedir? ve nasıl kullanılır?", "AI karakterlerinin davranışlarını yönetmek"] },
   { title: "Advanced Camera Sistemleri ve Dinamik Kameralar", tasks: ["Kameraların dinamik olarak oyuncuya nasıl yaklaşacağı", "Özel kamera geçişleri ve efektler"] },
